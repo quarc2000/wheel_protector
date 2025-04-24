@@ -17,3 +17,10 @@ It has of course been designed not to require any supports, making it easy to us
 The design is made to keep the two pieces together using a string. Earlier versions used glue, but to simplify production of several that was modified to instead using a separate lock piece
 to long the string in. If you are using a thin string, you put a knot at the end and put then into the void before closing the slot with the locking piece, if you have a thicker string, you just melt the end a bit.
 For low volumes you could of course still use a drop of superglue in the void before closing the locking piece.
+
+### Further improvements
+* As already mentioned you can make this also a security device during the dark times of year by making them reflective and carry them on the outside of your bag och backpack. Of course you would never work without a reflective west or other reflective clothing, but an add on is never wrong.
+* You can see on the pictures I have also included a piece of a draft excluder. This is not necessary but makes the stability of the computer on the wheel even better.
+
+## Special Feature
+The device fits laptops up to 16-16 inches easily with the Wheen straight. If you are using even larger laptops, you can tirn the wheel 90 degrees and let the laptop extend out to the left or right.
