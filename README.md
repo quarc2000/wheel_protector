@@ -1,10 +1,10 @@
 # wheel_protector
 A tool that during static tests protects the Scania Steering Wheel from a laptop or other equipment
 
-**Only use in a static environment. 
-**Make sure there is no risk of detonating the airbag.
-**Make sure the vehicle is not moving.
-**Use at your own risk.
+Only use in a static environment.
+Make sure there is no risk of detonating the airbag.
+Make sure the vehicle is not moving.
+Use at your own risk.
 
 __Printing__
 As the two pieces are different I strongly recommend a colour separation between left and righ. I have standardised white to the left, and any other colour on the right.
