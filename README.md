@@ -23,4 +23,4 @@ For low volumes you could of course still use a drop of superglue in the void be
 * You can see on the pictures I have also included a piece of a draft excluder. This is not necessary but makes the stability of the computer on the wheel even better.
 
 ## Special Feature
-The device fits laptops up to 16-16 inches easily with the Wheen straight. If you are using even larger laptops, you can tirn the wheel 90 degrees and let the laptop extend out to the left or right.
+The device fits laptops up to 16 inches easily with the Wheen straight. If you are using even larger laptops, you can tirn the wheel 90 degrees and let the laptop extend out to the left or right.
