@@ -1,5 +1,5 @@
 # wheel_protector
-A tool that during static tests protects the Scania Steering Wheel from a laptop or other equipment
+A tool that during static tests protects the Scania Steering Wheel from a laptop or other equipment. It should fit the steering wheel from the year 2016.
 
 Only use in a static environment.
 Make sure there is no risk of detonating the airbag.
